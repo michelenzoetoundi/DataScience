@@ -1,14 +1,6 @@
-# 👋 Michel Enzo Etoundi  
-**IT & Telecommunications Engineer | Data Science & AI (Self-Taught)**
-
-📍 Cameroon | 🌍 Open to international collaborations  
-🎯 Focus: Data Science, Artificial Intelligence, real-world impact projects
-
----
-
 ## 🧭 Current Stage in My Data Science Journey
 
-🔹 **Current phase: Phase 1 – Mathematical Foundations**  
+🔹 **Current phase: 1 – Mathematical Foundations**  
 🔹 **Status: Actively learning**
 
 > My goal is to build strong foundations to truly understand models,  
@@ -33,15 +25,8 @@
 - *Calcul intégral* (Chenelière, 2016)
 
 ---
-
-## 🧠 Key Concepts I Am Developing
-- Representing data in vector form
-- Understanding relationships between variables
-
----
-
 ## 🛠️ Current Projects (Foundational Level)
-- Learning mini-projects (GNU Octave)
+- Linear Algebra problem-solving using GNU Octave
 - Well-documented notebooks explaining the reasoning step by step
 
 > These projects are intentionally simple, but conceptually solid.
@@ -49,7 +34,8 @@
 ---
 
 ## 🗂️ Upcoming Projects
-- 
+- - Calculus problem-solving using GNU Octave
+- Well-documented notebooks explaining the reasoning step by step
 
 ---
 
@@ -70,3 +56,4 @@
 
 📌 *This profile evolves alongside my learning journey.  
 Each update reflects a real step in my progression.*
+
