@@ -34,7 +34,7 @@
 ---
 
 ## 🗂️ Upcoming Projects
-- - Calculus problem-solving using GNU Octave
+- Calculus problem-solving using GNU Octave
 - Well-documented notebooks explaining the reasoning step by step
 
 ---
@@ -56,4 +56,5 @@
 
 📌 *This profile evolves alongside my learning journey.  
 Each update reflects a real step in my progression.*
+
 
