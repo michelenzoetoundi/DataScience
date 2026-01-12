@@ -39,14 +39,6 @@
 
 ---
 
-## 🌍 Long-Term Vision
-- Become a **Data Scientist able to explain and justify models**
-- Build useful, contextualized, and responsible projects
-- Connect data science with ethics, society, and education
-- Engage with technical communities in Africa and worldwide
-
----
-
 ## 🔗 Connect / Collaborate
 - 💻 GitHub: https://github.com/michelenzoetoundi  
 - 📊 Kaggle: https://www.kaggle.com/michaelenzoetoundi  
@@ -56,5 +48,6 @@
 
 📌 *This profile evolves alongside my learning journey.  
 Each update reflects a real step in my progression.*
+
 
 
