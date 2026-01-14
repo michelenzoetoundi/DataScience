@@ -3,25 +3,16 @@
 🔹 **Current Iteration:** Linear Algebra  
 🔹 **Status:** Active, concept-driven learning  
 
-> My objective is not to use models as black boxes,  
-> but to understand the mathematical structures that give them meaning, limits, and power.
-
-My learning path is **iterative rather than linear**.  
-Instead of completing all mathematical and technical domains at once, I focus on **one foundational pillar per iteration**, deepening my understanding and returning to other areas when they become necessary.
-
-At this stage, this iteration is **fully dedicated to linear algebra**, which forms the structural backbone of data analysis, machine learning, and optimization.
-
 ---
 
 ## 🧠 Learning Philosophy
 - Prioritize **conceptual clarity over speed**
 - Understand **why methods work**, not only how to apply them
-- Learn through **focused iterations**, not rigid sequencing
 - Use tools as **instruments of reasoning**, not substitutes for thinking
 
 ---
 
-## 📘 Current Areas of Study (Linear Algebra Iteration)
+## 📘 Current Areas of Study 
 
 ### 📐 Mathematics for Data Science
 - **Linear Algebra**
@@ -73,7 +64,7 @@ At this stage, this iteration is **fully dedicated to linear algebra**, which fo
 
 ---
 
-## 🛠️ Current Projects (Linear Algebra)
+## 🛠️ Current Projects
 - Linear algebra problem-solving using GNU Octave
 - Well-documented notebooks explaining:
   - the problem structure  
