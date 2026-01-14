@@ -2,6 +2,7 @@
 
 🔹 **Current Iteration:** Linear Algebra  
 🔹 **Status:** Active, concept-driven learning  
+🔹 **Check :** => 📁01 - Maths Foundations => 📁Algèbre Linéaire
 
 ---
 
