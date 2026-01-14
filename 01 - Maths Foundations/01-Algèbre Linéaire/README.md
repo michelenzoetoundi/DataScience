@@ -48,8 +48,10 @@ The approach followed in this module is based on three principles:
 ## 📂 Folder Structure and Organization
 
 - **Théorie** → conceptual and formal understanding  
-- **Practique (Octave)** → numerical experimentation to strengthen intuition  
-- **Exercices** → active appropriation of concepts  
+    - **Cours** → Summary of concepts learned  
+     - **Exercices** → active appropriation of concepts  
+- **Pratique (Octave)** → numerical experimentation to strengthen intuition  
+
 
 ---
 
@@ -74,10 +76,5 @@ Without linear algebra, models become black boxes.
 
 ---
 
-## 🧭 Final Intent
-This module is not about *learning how to compute*,  
-but about **learning how to think in terms of spaces, structures, and relationships**.
-
-This way of thinking is what enables one to understand, critique, and design intelligent models.
 
 
