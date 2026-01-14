@@ -1,35 +1,28 @@
-## 🧭 My Data Science Journey — Current Focus
+## 🧭 My Data Science Journey
 
-🔹 **Current Iteration:** Linear Algebra  
-🔹 **Status:** Active, concept-driven learning  
-🔹 **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire to view my notes & projects
+🔹 **Current Focus:** Linear Algebra  
+🔹 **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire
 
 ---
 
-## 🧠 Philosophy
+## 🧠 Methodology
 - Prioritize **conceptual clarity over speed**
 - Understand **why methods work**, not only how to apply them
 - Use tools as **instruments of reasoning**, not substitutes for thinking
 
 ---
 
-## 🧠 Skills & Competencies (Current Level)
+## 🛠️ Skills & Competencies (Current Level)
 
 > The following skills reflect what I can already apply in practice  
 
 ### 📐 Mathematics
 
 **Linear Algebra**
-- Manipulate vectors and matrices
+- Manipulate vectors and matrices (Matrix operations,Linear combinations, Rank and system consistency)
 - Solve systems of linear equations
 - Interpret linear systems geometrically
-- Work with:
-  - Matrix operations
-  - Linear combinations
-  - Rank and system consistency
 - Translate mathematical problems into computational form
-
----
 
 ### 💻 Computation & Tools
 - Use **GNU Octave** for:
@@ -38,8 +31,6 @@
   - Mathematical experimentation
 - Write clear and reproducible scripts
 - Document reasoning step by step, not only final results
-
----
 
 ### 🧠 Conceptual & Methodological Skills
 - Decompose abstract problems into structured steps
