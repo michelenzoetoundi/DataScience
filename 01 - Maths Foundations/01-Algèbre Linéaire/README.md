@@ -1,34 +1,25 @@
-# Linear Algebra — Conceptual Foundations
+# Linear Algebra
 
 ## 📂 Folder Structure and Organization
 
-- **Théorie** → conceptual and formal understanding  
-    - **Cours** → Summary of concepts learned  
-     - **Exercices** → active appropriation of concepts  
-- **Pratique (Octave)** → Projects completed of numerical experimentation to strengthen intuition  
+- **📂 Théorie** → conceptual and formal understanding  
+    - **📂 Cours** → Summary of concepts learned  
+     - **📂 Exercices** → active appropriation of concepts  
+- **📂 Pratique (Octave)** → Projects completed   
 
 ---
 
 ## 📚 Topics Covered
-- Vectors and vector spaces  
-- Matrices as representation tools  
-- Matrix operations  
-- Linear transformations  
-- Dimension and structural properties  
-- Geometric interpretation of operations  
+- [ ] 1 Matrix Language
+- [ ] 2 Matrix Operations
+- [ ] 3 Determinants and Matrix Inversion
+- [ ] 4 Solving Systems of Linear Equations
+- [ ] 5 Vectors in the Plane
+- [ ] 6 Vectors in R3 and Rn
+- [ ] 7 Linear Programming
 
 ---
 
-## 🔗 Connection to the Rest of the Curriculum
-Linear algebra is a **foundation**.  
-It will be directly reused in:
-- statistics (covariance, projections)
-- machine learning (regression, PCA, neural networks)
-- deep learning (tensors, backpropagation)
-
-Without linear algebra, models become black boxes.
-
----
 
 
 
