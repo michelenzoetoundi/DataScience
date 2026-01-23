@@ -1,12 +1,17 @@
-## 🧭 My Data Science Journey
+# 🧭 My Data Science Journey
+---
+## 🔄 Ongoing Phase:  
 
-🔹 **Ongoing Phase:**  
     ┌─────────────┐
-    │ Layer 6 🔝  │ Portfolio & Competitions
+    │ Layer 1 🟦  │ Mathematical Foundations: Linear Algebra
     └─────────────┘
-🔹 **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire
 
-🔹 **Completed Phase:** None
+ **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire
+
+---
+## 🔄Previous Phase
+
+
 
 
 ---
@@ -15,18 +20,13 @@
 > The following skills reflect what I can already apply in practice  
 
 ### 📐 Mathematics
-
 **Linear Algebra**
-- Manipulate vectors and matrices 
-- Solve systems of linear equations
-- Interpret linear systems geometrically
+- Understand a real world problem and build a mathematical model of it
+- Manipulate matrices and vectors to calculate, solve and interpret results
 - Translate mathematical problems into computational form
 
 ### 💻 Computation & Tools
-- Use **GNU Octave** for:
-  - Numerical linear algebra
-  - Matrix-based problem solving
-  - Mathematical experimentation
+- Use **GNU Octave** for: numerical linear algebra, matrix-based problem solving, mathematical experimentation
 - Write clear and reproducible scripts
 - Document reasoning step by step, not only final results
 
