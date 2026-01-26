@@ -3,7 +3,7 @@
 ## 🔄 Ongoing Phase:  
 
     ┌─────────────┐
-    │ Layer 1 🟦  │ Mathematical Foundations: Linear Algebra
+    │ Module 1 🟦  │ Mathematical Foundations: Linear Algebra
     └─────────────┘
 
  **Check :** => 📁 01 - Maths Foundations => 📁 Algèbre Linéaire
@@ -39,7 +39,7 @@
 ---
 ## 🔄 Next Step
     ┌─────────────┐
-    │ Layer 2 📊  │ Statistics & Probability: Descriptive stats, Inference, ANOVA
+    │ Module 2 📊  │ Statistics & Data tools
     └─────────────┘
 ---
 📌 *This repository evolves through focused learning iterations.  
