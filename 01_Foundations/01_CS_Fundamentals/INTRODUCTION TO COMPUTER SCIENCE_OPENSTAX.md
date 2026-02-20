@@ -1,7 +1,7 @@
 # 📘 Introduction to Computer Science (OpenStax, 2024)
 
 ## 📝 Abstract
-> This treatise establishes the theoretical and practical foundations of computation. This specific selection (Ch. 1-8) focuses on creating "Layer 0": from computational thinking to the physical and logical management of data. It serves as the indispensable bedrock for understanding how information is born and structured before it undergoes scientific analysis.
+> The book provides a solid base in central concepts and principles of Computer Science. This treatise establishes the theoretical and practical foundations of computation. This specific selection (Ch. 1-8) focuses on creating "Layer 0": from computational thinking to the physical and logical management of data. It serves as the indispensable bedrock for understanding how information is born and structured before it undergoes scientific analysis.
 
 ---
 
