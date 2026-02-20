@@ -12,6 +12,9 @@
 > - Describe how science, mathematics, and engineering each play a role in computer science
 > - Discuss how data science, computational science, and information science each relate to computer science
 > - Explain why the various areas of computer science are synergistic
+> - Discuss how computer scientists develop foundational technologies
+> - Discuss how computer scientists evaluate the negative consequences of technologies
+> - Discuss how computer scientists design technologies for social good
 
 ## 🏗️ Concepts to Master
 - Computing, Computer Science
@@ -21,13 +24,14 @@
 
 ## ❓ Fundamental Problems & Questions
 > [!QUESTION] 
-> *What is computer science? How does it emerged as a field ? What can computer science do and should not do ?*
+> *What is computer science? How does it emerged as a field ? What can computer science do and should not do ? How science, mathematics and engineering each play a role in computer science ? how data science, computational science, and information science each relate to computer science ? why are the various areas of CS synergetic ? How do computer scientists develop foundational technologies ? How do they evaluate the negative consequences of technologies ? How do they design technologies for social good ?*
 > 
 
 
 ## 📝 Lecture Synthesis
 
-### 🧠 Concepts Analysis
+### 🤔 What is Computer Science ? 
+#### 🧠 Foundational concepts & ideas
 > [!INFO] **Computing**
 > - **Definition**: *Computing comes from compute which means to determine by calculation, to count, **to calculate**.*
 > - **Usage**: *Computing is an activity that allows us to quantify, analyze, and optimize decisions in order to reduce uncertainty in the world, adapt and predict*
@@ -54,6 +58,14 @@
 > - A computer  program is an algorithm that can be run on a computer.
 > - A programming language consists of symbols and instructions that can be interpreted by a computer.
 
+#### 💡Other Ideas
+
+ >[!TIP] Synthesis
+ > - **Theoretical computer science** focuses on the mathematical processes behind software.
+> - **Almost all computers**, are considered **Turing-complete** (or Computationally Universal, as opposed to specialized computing devices such as scientific calculators) because **they share the same fundamental model for computing results and every computer has the ability to run any algorithm**.
+> - A Turing-complete computer stores data in memory and manipulates that data according to a **computer program**, . These programs are represented using symbols and instructions written in a programming language. Programs are also stored in memory, which allows programmers to modify and improve programs by changing the instructions.
+> - Computer science is evolving from its purely mathematical and theoretical roots—which define the logical and efficient limits of computation via Turing-completeness—to a more holistic discipline that integrates specialized hardware, human-centered social values, and the cognitive complexities of fields like Human Computer Interaction and education.
+
 ### 🔍  History of Computer Science
 > [!TIP] Synthesis
 > - The first computing devices appeared early in many human civilizations, they were physical devices such as the **abacus**. They were used **to count, add numbers**.  Around that time, the concept of **algorithm** was invented. 
@@ -63,15 +75,8 @@
 > - In the 1940s, multiple computers became available, including **IBM’s Harvard Mark 1**. These were the forerunners to the advent of the **digital computer** in the 1950s. Computers went from mechanical devices to electronic devices using at first light bulbs, then evolved to transistors, silicons, lithium materials. 
 > - Computer science emerged as an academic discipline rooted in the principles of mathematics, primarily in elite institutions, and funded by demand from the military. 
 > - **As computers could execute programs faster than humans, computer science replaced human-powered calculation with computer-powered problem-solving methods**.
-### 💡Other Ideas
 
- >[!TIP] Synthesis
- > - **Theoretical computer science** focuses on the mathematical processes behind software.
-> - **Almost all computers**, are considered **Turing-complete** (or Computationally Universal, as opposed to specialized computing devices such as scientific calculators) because **they share the same fundamental model for computing results and every computer has the ability to run any algorithm**.
-> - A Turing-complete computer stores data in memory and manipulates that data according to a **computer program**, . These programs are represented using symbols and instructions written in a programming language. Programs are also stored in memory, which allows programmers to modify and improve programs by changing the instructions.
-> - Computer science is evolving from its purely mathematical and theoretical roots—which define the logical and efficient limits of computation via Turing-completeness—to a more holistic discipline that integrates specialized hardware, human-centered social values, and the cognitive complexities of fields like Human Computer Interaction and education.
-
-### The Capabilities and Limitations of Computer Science
+### 💻 The Capabilities and Limitations of Computer Science
  >[!TIP] Synthesis
  >- **Economic Disparity:** Although Black culture drives massive engagement and profit on platforms like TikTok and X, the financial benefits and data ownership typically flow to dominant corporations rather than Black creators or entrepreneurs.
  >- **The Digital Divide:** Systemic barriers—including unequal access to high-speed internet, unreliable electricity, and the high cost of AI subscriptions—prevent marginalized communities from fully participating in the modern computing economy.
