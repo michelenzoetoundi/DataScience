@@ -1,4 +1,4 @@
-# 🧠 My Data Science Journey: From Core Networks to Data Intelligence
+### My Data Science Journey: From Core Networks to Data Intelligence
 
 > "Understanding fundamental principles to master technical complexity."
 
@@ -6,7 +6,7 @@ This repository documents my transition to Data Science. I follow a **First Prin
 
 ---
 
-## 🏗️ Repository Architecture
+#### 🏗️ Repository Architecture
 
 ```bash
 .
