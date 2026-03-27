@@ -10,11 +10,11 @@ This repository documents my transition to Data Science. I follow a **First Prin
 
 ```bash
 .
-├── 01-Principles Knowledge       # The "Why": Theoretical foundations & Proofs
-│   ├── 01-Maths                  # Calculus, Linear Algebra, Optimization
-│   ├── 02-Statistics             # Inference, Probability, Stochastic Modeling
-│   └── 03-Computer Science       # Algorithms (Big O), Architecture, OS
+├── 01-Principles & Theory        # The "Why": Theoretical foundations & Proofs
+│   ├── 01-Maths                  # Calculus, Linear Algebra, Stats & Probability, Operations Research, Discrete Maths
+│   ├── 02-Computer Science       # Algorithms, Digital Logic & Computer Architecture, Programming,  OS
+│   └── 03-Data Science           # Principles of Data Science
 ├── 02-Programming Projects       # The "How": Implementations (Python, R, SQL)
-├── 03-Design Projects            # Architecture: HLD, DB Schemas, Cloud Design
-├── 04-Capstone Projects          # Problem-Solving Projects
+├── 03-Data Projects            
+├── 04-Systems Design Projects          # Problem-Solving Projects
 └── README.md
